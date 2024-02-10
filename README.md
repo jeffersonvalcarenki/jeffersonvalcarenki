@@ -10,7 +10,7 @@
 #### And also:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original-wordmark.svg" loading="lazy" width="40" height="40"/>&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original-wordmark.svg" loading="lazy" width="40" height="40"/>&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" loading="lazy" width="40" height="40"/>&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" loading="lazy" width="40" height="40"/>
 
-### Thank you for visiting my GitHub profile! Your interest is greatly appreciated. 😄
+#### Appreciate you stopping by my GitHub profile!! It's great to have you here.. 😄
 
 <!--
 **jeffersonvalcarenki/jeffersonvalcarenki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
